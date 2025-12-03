@@ -2050,7 +2050,7 @@ hash = "a16630bdc2fbecab73b939d2adb903481b3c1f84bf1bd02cc2bed1d1189f9770"
 
 [[files]]
 file = "icon.png"
-hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
+hash = "49319633b594c9f5a497b6c4124f823888b07143bab6ee3cbef92a4738f8ec72"
 
 [[files]]
 file = "instance.png"
@@ -2069,11 +2069,6 @@ metafile = true
 [[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "e8ed8e243655cb6d2026fa62280217ad0cba128d352386b53b397b1175d3d3cb"
-metafile = true
-
-[[files]]
-file = "mods/better-forge-chat-reborn-luckperms.pw.toml"
-hash = "169eb0b0ed002c75253952991aaf73b248436d7c7c1a3cf9a2adfe2865bead51"
 metafile = true
 
 [[files]]
@@ -2418,7 +2413,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "682c0d78b4656d0db0a7fc83c97fc8d6a6fb67d7e55d77b2d90924c1096a80f5"
+hash = "99813592c09351cb6340d8519d919e0d2d0b2f8073c3fe6833e7d846616bf5f2"
 metafile = true
 
 [[files]]
@@ -2438,7 +2433,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "3ab7932863f574152f2622eaaf542e6975b67febd4a429ff5c0326093aafb583"
+hash = "9cb5d76d81b59211ee2a9c9efbb43c5dd237f56d6c8ba1b713efe8575dd60733"
 metafile = true
 
 [[files]]
@@ -2559,14 +2554,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "1b34706988b2413b9260ce3e1ae49d5fc37051fc7686517d1c98ddc3dbde8e89"
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "packwiz-installer-bootstrap.json"
-hash = "926e77c8660d1f680d5e9a98c70a2d7932d7aef2a87b3b700801472824775640"
 
 [[files]]
 file = "servers.dat"
