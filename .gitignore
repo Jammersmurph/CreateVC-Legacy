@@ -1,2 +1,6 @@
 go1.25.9.linux-amd64.tar.gz
 .codex
+mods/tacz*.jar
+mods/tacz*.pw.toml
+config/tacz*.toml
+config/tacz*.toml.bak
