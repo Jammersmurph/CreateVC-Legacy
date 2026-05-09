@@ -467,11 +467,6 @@ hash = "105b1f8eb9f09418432e257df0c32db6e06a81751f6a1a8eb639f94136272672"
 metafile = true
 
 [[files]]
-file = "mods/create-fluid.pw.toml"
-hash = "44c885ad439aeae8cfbbafff4239586a5d46e1a6a3972d823e8211fb13957afd"
-metafile = true
-
-[[files]]
 file = "mods/create-food.pw.toml"
 hash = "9659152903c07ccc018e00e09ffe021d78da8be78a83a19ffe269c251e0cd191"
 metafile = true
@@ -743,6 +738,10 @@ metafile = true
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
+
+[[files]]
+file = "mods/fluid-1.2.4.jar"
+hash = "d6c556432b6e91e8d1e6ab73b26167a0391df60dfc97a9f38c0abf7cd26fb2dd"
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
