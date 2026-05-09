@@ -875,9 +875,8 @@ hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "3ea53a3421a50217c28e1aed057fd7baf08e946e90013ba12e84d3e04fad4600"
-metafile = true
+file = "mods/minecolonies-1.1.1300-1.21.1.jar"
+hash = "d15de208cc2a0f49c4cf03b449a1c37ec43c6c1b666625cdddf022b940c8b1ee"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
