@@ -1,13 +1,13 @@
 name = "Actually Harvest"
-filename = "actuallyharvest-1.21.1-neoforge-1.1.7.5-NEOFORGE.jar"
+filename = "actuallyharvest-1.21.1-neoforge-1.1.7.6-NEOFORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sUbuUC7R/versions/aVi218wg/actuallyharvest-1.21.1-neoforge-1.1.7.5-NEOFORGE.jar"
+url = "https://cdn.modrinth.com/data/sUbuUC7R/versions/RHzgvawa/actuallyharvest-1.21.1-neoforge-1.1.7.6-NEOFORGE.jar"
 hash-format = "sha512"
-hash = "ee67b8ad4e217b58e3a5604baf9d219c442f39879a9af6b1b92a93bb74cf37004311ea1421bc889b53c1a321ca1b8ae2dd4b3e93942e93b82b12ef436ddc7bdc"
+hash = "00cbf4e527d042d4fed91502c93de71a81b955dbca0c9a3f261cf8f6f51296b2fa85f3556af659f5ea61d9a014aed416fec9e71fa72e59d05046a88e64dc9904"
 
 [update]
 [update.modrinth]
 mod-id = "sUbuUC7R"
-version = "aVi218wg"
+version = "RHzgvawa"
