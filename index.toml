@@ -277,6 +277,11 @@ hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
+file = "mods/cc-sable.pw.toml"
+hash = "f4be9e4c8e4b694ed37b14ee0a3cc8196f08c029778db64ddf13b92bf9273d1a"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
@@ -349,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "55f5cab53f5d62585660bcc740d319e81a5981a409816b1ed2040c7b3b78be2a"
+metafile = true
+
+[[files]]
+file = "mods/create-additions-sable-compat.pw.toml"
+hash = "28f7402a4698ef19d2066aa1bd0ab971777d6a4db0f6bbfe99e17c87d8627aaf"
 metafile = true
 
 [[files]]
@@ -592,7 +602,7 @@ hash = "b8dea6c02427285e2b3be3330e7dea9d04b3e05a960fd9f7911cbf0f21438aef"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "7aa0060e5df8631d27a789d73eb57d67c611b95be5bce4175810351e9479ae60"
+hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
 metafile = true
 
 [[files]]
@@ -804,8 +814,13 @@ hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
 metafile = true
 
 [[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "5d3c4ea820599f6660909d3e6795a187b7c93e15a2e904cc11eb4d26af1305ff"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
-hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
@@ -1006,6 +1021,11 @@ hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
+file = "mods/sablecompat.pw.toml"
+hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "8a0271e7d5c8f4badd2886fd9a8ca75c5a33868ac90828cf3b5dbe932025a0fa"
 metafile = true
@@ -1083,6 +1103,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
+metafile = true
+
+[[files]]
+file = "mods/touys.pw.toml"
+hash = "54e20f405bc465dcb41aaaa2c13b29d31e41c947f086d3f6a21c808201690d61"
 metafile = true
 
 [[files]]
