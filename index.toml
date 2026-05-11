@@ -292,6 +292,11 @@ hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
 
 [[files]]
+file = "mods/chloride.pw.toml"
+hash = "2a8ea70232bee0baf3975f7bacbe542a028d1e8c1dbd180c88c76f4c4ce13a4c"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -1062,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
@@ -1153,20 +1158,6 @@ metafile = true
 [[files]]
 file = "mods/voiceless-survival.pw.toml"
 hash = "b4d6077fa0aff367c7cac01e79ebc6e3406937347150c8538ea265b6ac7a779d"
-metafile = true
-
-[[files]]
-file = "mods/waterframes.pw.toml"
-hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-2.1.37.jar"
-hash = "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "393310e8c75c51eb3143c8ddcdac51917a5d759d428e5b962e4c2b4c8e87bc0e"
 metafile = true
 
 [[files]]
