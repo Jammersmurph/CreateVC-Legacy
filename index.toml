@@ -357,6 +357,11 @@ hash = "55f5cab53f5d62585660bcc740d319e81a5981a409816b1ed2040c7b3b78be2a"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "14a661c7ccb290a48b14ed189ff5728cc50d7dd1606368e979464aff1faa9e5b"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
@@ -603,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/createtea-1.0.jar"
 hash = "b55f06ec5522bcb54e61e98b41670e829e12c09e1e9db11ab415bb61637a859c"
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d6e8a17cd30032fb2eaeb910f65ffca9cd41a6530b607d58dfa18ac619b6d9f1"
+metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
@@ -1121,6 +1131,11 @@ hash = "f016a7d796ee67a3a3cf8bff2f0fff40456a4fca65ab40bcc512521570f1ab45"
 metafile = true
 
 [[files]]
+file = "mods/vista-aeronautics-fix.pw.toml"
+hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
+metafile = true
+
+[[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "b8765cf083d551620d13602f3f868c7644220a8929fc49af1cf867af0b4cdd9a"
 metafile = true
@@ -1138,6 +1153,21 @@ metafile = true
 [[files]]
 file = "mods/voiceless-survival.pw.toml"
 hash = "b4d6077fa0aff367c7cac01e79ebc6e3406937347150c8538ea265b6ac7a779d"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "7756678c5600a6d421f39ef00d4a25afd6ac6ba2d76ec9a10bd7536a8d4f8558"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "393310e8c75c51eb3143c8ddcdac51917a5d759d428e5b962e4c2b4c8e87bc0e"
 metafile = true
 
 [[files]]
