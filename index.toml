@@ -680,8 +680,8 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
+file = "mods/dynamic-lights.pw.toml"
+hash = "f52baae87b25fd13316a790da63e73c50bd5acf9a81db14585dec2a2cd9adb36"
 metafile = true
 
 [[files]]
