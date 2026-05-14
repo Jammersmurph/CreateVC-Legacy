@@ -372,13 +372,12 @@ hash = "55f5cab53f5d62585660bcc740d319e81a5981a409816b1ed2040c7b3b78be2a"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-compatability.pw.toml"
-hash = "14a661c7ccb290a48b14ed189ff5728cc50d7dd1606368e979464aff1faa9e5b"
-metafile = true
+file = "mods/create-aeronautics-bundled-1.21.1-1.2.1 1.jar"
+hash = "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
 
 [[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "14a661c7ccb290a48b14ed189ff5728cc50d7dd1606368e979464aff1faa9e5b"
 metafile = true
 
 [[files]]
