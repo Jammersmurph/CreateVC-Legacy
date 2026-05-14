@@ -382,11 +382,6 @@ hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
 metafile = true
 
 [[files]]
-file = "mods/create-aquatic-ambitions.pw.toml"
-hash = "13095f719e466c9187ed385ea7b709226da71143cf192a932d8ec7b27e0c7288"
-metafile = true
-
-[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
@@ -394,11 +389,6 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "c35bc6385cac0836f60c3d009ba67ec1aefbb90fbd7782133f3ecf1e38f07dad"
-metafile = true
-
-[[files]]
-file = "mods/create-bitterballen.pw.toml"
-hash = "818c72ad08596c9312ad2090aad62c7c1733053ec4588079c1d5f9cd2fa03421"
 metafile = true
 
 [[files]]
@@ -559,16 +549,6 @@ metafile = true
 [[files]]
 file = "mods/create-smart-bounds.pw.toml"
 hash = "7e6cdbf3b08697812e6954426b5e1aa8f3159d48e5b63913d2814a54f62d52dc"
-metafile = true
-
-[[files]]
-file = "mods/create-sound-of-steam-tuning-wrench.pw.toml"
-hash = "941f681fb3a3f9d76e8fff6a56c423bc6436693b261f285490e091f864b718bd"
-metafile = true
-
-[[files]]
-file = "mods/create-sound-of-steam.pw.toml"
-hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
@@ -1128,11 +1108,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "31656b2f1ff31e740b6a1b440acfa1c8a99fab91761b84753ac682650bb4ad53"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
