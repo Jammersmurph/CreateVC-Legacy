@@ -1090,9 +1090,8 @@ hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "d2a615d48539929c212fda6a9e44a2737d226aad0b791d61bd31a52b68e12f72"
-metafile = true
+file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
