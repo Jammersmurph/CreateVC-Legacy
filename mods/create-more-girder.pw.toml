@@ -1,13 +1,13 @@
 name = "Create: More Girder"
-filename = "create-more-girder-1.2.1-neo.jar"
+filename = "create-more-girder-1.2.3-neo.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sPg2LVAd/versions/fNi66Jc9/create-more-girder-1.2.1-neo.jar"
+url = "https://cdn.modrinth.com/data/sPg2LVAd/versions/Uw07bcpb/create-more-girder-1.2.3-neo.jar"
 hash-format = "sha512"
-hash = "28b8e20bbadc048588a4945078bf76d0dce78219739ab76ac1eb5b6b9fde4dd3dfda306607d58e03fe43f08f2b31b3d952c808e288e40e7eed645c4cf9db0761"
+hash = "3f8c87090a742ea716ed7ab55a28c603b512b1ce91895952fe601d0268b957c81f7fd8a71e510475ff3d2a19f1a88989a51521e4b97597ddfc7bdeb8ed9dadf4"
 
 [update]
 [update.modrinth]
 mod-id = "sPg2LVAd"
-version = "fNi66Jc9"
+version = "Uw07bcpb"
