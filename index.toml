@@ -189,6 +189,10 @@ file = "mods/CreateVC-Core-1.2.5.jar"
 hash = "df8908d5f35e5d639ab54b3d509d95ef5c73c335896fc17565568e9ed3d35e3a"
 
 [[files]]
+file = "mods/CreateVC-CreateSATank-Compat-0.1.0.jar"
+hash = "aeb51326291180f2dba18b0f01a703a17421e44f2587ccb44f2971ec094fbfa9"
+
+[[files]]
 file = "mods/CreateVC-Updater-1.0.0.jar"
 hash = "4a14f7975d75f69b43e64faa4572cb86dc6259c0740aee265f7317634f617334"
 
