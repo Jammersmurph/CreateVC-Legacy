@@ -1188,11 +1188,6 @@ hash = "eff28bc1bd58b890eab1a98973f196e3eb2d1580deaaf9a33cd5ca694ad64ad1"
 metafile = true
 
 [[files]]
-file = "mods/vcadmin-simplevoicechat-addon.pw.toml"
-hash = "ce1a60f9bc871a559a26544962b0c3c85e080e82da571a70d023d4a51e5651cf"
-metafile = true
-
-[[files]]
 file = "mods/vista-aeronautics-fix.pw.toml"
 hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
 metafile = true
