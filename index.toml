@@ -385,8 +385,13 @@ hash = "14a661c7ccb290a48b14ed189ff5728cc50d7dd1606368e979464aff1faa9e5b"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-gyroscope-stabilizers.pw.toml"
+hash = "845db39ab8c05bcd2f047d7bd810ea0d27f027ebbaf7f8db872126e8bc89ee2d"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
+hash = "2c6621f2d82a9be0240bbf9c0a416f7dc79edd63636f6d1b869c93ca5f59bade"
 metafile = true
 
 [[files]]
@@ -530,6 +535,11 @@ hash = "a9dad68061b69b23ba00cd93d31dc8b5622f1426b4e684aaf6022e1bd492ae56"
 metafile = true
 
 [[files]]
+file = "mods/create-northstar-aeronautics-compatibility.pw.toml"
+hash = "ef63495b065769fb0dfe4295837551c9a5cc22715be4391e6a7699bfc7153652"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
@@ -542,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/create-qol.pw.toml"
 hash = "574a75a29e52109b038cae6a670d072a72103e33c8eb752450f36b084fe871b0"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "db88aac3a4227b401e8ceb8994c3b4bee4e579471b91b3cab0edc225e1b49806"
 metafile = true
 
 [[files]]
@@ -581,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1044,13 +1059,18 @@ hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
 
 [[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
@@ -1070,7 +1090,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
+hash = "345dc5a2b3dedcde5c7a1d8e34d256ecb93cf3a48e9290855b541d1a4d15a340"
+metafile = true
+
+[[files]]
+file = "mods/simplevoicechat-broadcast.pw.toml"
+hash = "a698ef39703179656d1a11c50488f0c262ee82be2ff750e8456fa362c0972828"
 metafile = true
 
 [[files]]
@@ -1163,6 +1188,11 @@ hash = "eff28bc1bd58b890eab1a98973f196e3eb2d1580deaaf9a33cd5ca694ad64ad1"
 metafile = true
 
 [[files]]
+file = "mods/vcadmin-simplevoicechat-addon.pw.toml"
+hash = "ce1a60f9bc871a559a26544962b0c3c85e080e82da571a70d023d4a51e5651cf"
+metafile = true
+
+[[files]]
 file = "mods/vista-aeronautics-fix.pw.toml"
 hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
 metafile = true
@@ -1185,6 +1215,11 @@ metafile = true
 [[files]]
 file = "mods/voiceless-survival.pw.toml"
 hash = "b4d6077fa0aff367c7cac01e79ebc6e3406937347150c8538ea265b6ac7a779d"
+metafile = true
+
+[[files]]
+file = "mods/walkie-talkie-plus.pw.toml"
+hash = "50e173aa71f85519e2c742b62b09817df21940771f6875ec7965850a869ab405"
 metafile = true
 
 [[files]]

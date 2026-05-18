@@ -1,0 +1,13 @@
+name = "VC Admin - Voice Chat Moderation Tool"
+filename = "vcadmin-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a8defc4bee2194f06ad3636064a99bf5154863f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7884195
+project-id = 1455788

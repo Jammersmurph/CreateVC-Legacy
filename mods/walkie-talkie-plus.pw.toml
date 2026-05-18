@@ -1,0 +1,13 @@
+name = "Walkie-Talkie Plus"
+filename = "walkietalkie-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2b69a5ed5d4f3e2d51778b73cbfd5249cc1dc64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8006069
+project-id = 1520255

@@ -1,0 +1,13 @@
+name = "SimpleVoiceChat Broadcast"
+filename = "simple_voice_broadcast-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1b9d20489773d571c77c04f98f56e578c452398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7406927
+project-id = 942329

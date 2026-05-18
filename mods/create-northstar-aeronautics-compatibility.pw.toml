@@ -1,0 +1,13 @@
+name = "Create: Northstar-Aeronautics Compatibility"
+filename = "create-northstar-aeronautics-bridge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mit4b2tJ/versions/IJ4dKEhW/create-northstar-aeronautics-bridge-2.0.0.jar"
+hash-format = "sha512"
+hash = "07c4e53a3532ce6cc325a47a6f05624dcc77083be2604317c51e5c55f1ed7f2e57c93fc517eb4730e5c2af20b12d947081d12cd5032c3e91c73b96d948ff902a"
+
+[update]
+[update.modrinth]
+mod-id = "Mit4b2tJ"
+version = "IJ4dKEhW"
